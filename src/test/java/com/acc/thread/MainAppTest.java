@@ -133,5 +133,4 @@ public class MainAppTest {
         thread3.join();
         System.out.println(counter.getValue());
     }
-
 }
